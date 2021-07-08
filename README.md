@@ -1,70 +1,56 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ # 9. Profundizando Hooks - Generales
+* 1._Introducción_a_la_sección
+* 3._Inicio_de_proyecto_-_Hooks
+* 4._useState
+* 5._useCounter_-_CustomHook
+* 6._useEffect_-_SimpleForm
+* 7._useEffect_unmount_-_Cleanup
+* 8._useEffect_-_Precauciones
+* 9._Formulario_con_custom_Hook.
+* 10._useFetch_-_CustomHook
+* 11._useFetch_+_useCounter
+* 12._useRef_-_Primer_uso
+* 13._useRef_-_Caso_de_uso_real
+* 14._useLayoutEffect
+* 15._Memo_-_M+®todo_de_React
+* 16._useMemo
+* 17._useCallback
+* 18._Tarea_Memorize
+# 10. Profundizando Hooks – useReducer
+* 1._Introducci+¦n_a_la_secci+¦n
+* 3._Introducci+¦n_al_concepto_de_un_reducer
+* 4._Idea_general_de_un_reducer_-_V+¡a_c+¦digo
+* 5._useReducer_-_Todo_List
+* 6._Creando_el_cascaron_de_la_lista_de_TODOs
+* 7._Agregar_un_nuevo_TODO
+* 8._Guardar_TODOs_en_LocalStorage
+* 9._Borrar_un_TODO
+* 10._Toggle_Todo_-_Marcar_como_completado_o_pendiente_un_TODO
+* 11._Optimizaci+¦n_#1_-_Listado_de_TODOs
+* 12._Optimizaci+¦n_#2_-_Agregar_TODO
+# 11. Profundizando Hooks - useContext
+* 1._Introducción_a_la_sección
+* 3._Introducción_al_Context
+* 4._Preparación_de_nuestra_aplicación_con_rutas
+* 5._Configurar_Router_en_React
+* 6._Link_y_NavLink
+* 7._CreateContext_y_useContext
+* 8._useContext
+#  12. Pruebas unitarias y de integración – Hooks
+* 1._Introducción_a_la_sección
+* 3._Inicio_de_proyecto_-_Pruebas_sobre_Hooks
+* 4._Pruebas_sobre_useCounter_-_CustomHook
+* 5._Ejecutar_funciones_del_customHook_dentro_de_las_pruebas
+* 6._Pruebas_sobre_useForm_-_CustomHook
+* 7._Pruebas_sobre_useFetch_-_CustomHook
+* 8._Pruebas_con_múltiples_hooks_simultaneos
+* 9._Tarea_-_Interacciones_con_el_useState
+* 10._Pruebas_sobre_el_Reducer
+* 11._Pruebas_restantes_de_mi_Reducer
+* 12._Pruebas_en_el_componente_TodoListItem
+* 13._Pruebas_en_el_TodoList
+* 14._Pruebas_con_el_TodoAdd
+* 15._Pruebas_en_el_TodoApp
+* 16._Pruebas_con_useContext
+* 17._Pruebas_de_funciones_del_context
+* 18._Pruebas_generales_en_nuestro_AppRouter  
